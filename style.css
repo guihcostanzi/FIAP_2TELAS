@@ -1,7 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
 #intro {
     text-align: left;
 }
 
 body{
-    background-image: url("pexels-photo-4025825.jpeg");
+    background-image: url("fundo.jpg");
+    background-repeat: no-repeat;
+    background-position: center center fixed;
+    background-size: cover;
 }
