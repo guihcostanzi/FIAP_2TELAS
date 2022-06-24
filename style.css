@@ -1,6 +1,7 @@
 *{
     box-sizing: border-box;
     font-family: 'Poppins';
+    text-shadow: 1px ;
 }
 
 #intro {
@@ -12,4 +13,25 @@ body{
     background-repeat: no-repeat;
     background-position: center center fixed;
     background-size: cover;
+}
+
+#floatingInput{
+    background-color: rgba(236, 233, 181, 0.856);
+    border-color: rgba(86, 90, 76, 0.61);
+}
+
+#floatingPassword{
+    background-color: rgba(236, 233, 181, 0.856);
+    border-color: rgba(86, 90, 76, 0.61);;
+}
+
+#logintela2{
+    background-color: antiquewhite;
+    border-color: black;
+    border: 3x;
+}
+
+
+#form34{
+    border-color:black ;
 }
