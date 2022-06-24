@@ -1,4 +1,9 @@
+*{
+    font-family: "Poppins";
+}
+
 body{
     background: rgb(162,158,227);
     background: linear-gradient(90deg, rgba(162,158,227,1) 0%, rgba(179,179,226,1) 35%, rgba(152,223,237,1) 100%);
 }
+
